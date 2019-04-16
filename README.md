@@ -1,0 +1,1 @@
+Greasemonkey userscript for hiding empty tables in search results in phpmyadmin
